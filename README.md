@@ -1,3 +1,4 @@
+
 # Balloon Powered Car
 
 A simple 3D printable car powered by the air released from a balloon.
@@ -19,6 +20,12 @@ The car uses the air escaping from a balloon to create thrust. Attach a balloon 
 `models/` contains the printable STL and 3MF files.
 
 `source/` contains the original CAD file.
+
+# Diagrams
+
+<img width="3300" height="2550" alt="Drawing 1" src="https://github.com/user-attachments/assets/176b59b1-3a4a-450d-8744-ec5ff2753c33" />
+<img width="3300" height="2550" alt="Drawing 2" src="https://github.com/user-attachments/assets/c5b434e5-bcef-4b72-9688-0ff054bb0c69" />
+<img width="3300" height="2550" alt="Drawing 1" src="https://github.com/user-attachments/assets/797aeb26-9457-411f-a116-362530668094" />
 
 ## How to use
 
