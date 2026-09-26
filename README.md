@@ -20,8 +20,6 @@ The car uses the air escaping from a balloon to create thrust. Attach a balloon 
 
 `source/` contains the original CAD file.
 
-`images/` contains photos and renders of the car.
-
 ## How to use
 
 1. Print the required parts.
@@ -35,6 +33,3 @@ The car uses the air escaping from a balloon to create thrust. Attach a balloon 
 
 The car was designed in Onshape.
 
-## License
-
-See the LICENSE file for the license and usage permissions.
